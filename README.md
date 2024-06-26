@@ -1,16 +1,42 @@
-## Hi there 👋
+  
+### <div align="center"><h1> Hi there 👋👨💻</h1></div>  
+### <div align="center"> <h1> I'm Animesh Mishra </h1></div>  
+  <br/>
 
-<!--
-**animesh30-dev/animesh30-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I’m currently pursuing BTechfrom [MANIT](http://www.manit.ac.in/)  
+  
 
-Here are some ideas to get you started:
+- I love competitive programming and diving into algorithms💻, and I am also a React Native developer⚛️.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+
+
+
+
+</td></tr></table>
+<br/>  
+<h2>Coding Profiles </h2>   
+<div align="left">
+<a href="https://codeforces.com/profile/animesh_30" target="_blank">
+<img src=https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png width=20% alt=codechef  />
+</a>  
+<a href="https://leetcode.com/u/animesh_30/" target="_blank">
+<img src=https://miro.medium.com/v2/resize:fit:1400/1*gBkMCGTAdSk4tu17SCa7RQ.png width=20% alt=codechef  />
+</a>  
+<a href="https://www.codechef.com/users/code_crafterr" target="_blank">
+<img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png width=20% alt=codechef  />
+</a>
+</div>  
+<br/>
+<h2>Connect with me</h2>  
+<div align="left">
+<a href="https://github.com/animesh30-dev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/animesh-mishra-a510b8257/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+ 
+<br/>
