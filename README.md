@@ -3,7 +3,7 @@
 ### <div align="center"> <h1> I'm Animesh Mishra </h1></div>  
   <br/>
 
-- 👨‍🎓 I’m currently pursuing BTechfrom [MANIT](http://www.manit.ac.in/)  
+- 👨‍🎓 I’m currently pursuing BTech from [MANIT](http://www.manit.ac.in/)  
   
 
 - I love competitive programming and diving into algorithms💻, and I am also a React Native developer⚛️.
