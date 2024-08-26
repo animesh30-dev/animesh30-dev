@@ -6,7 +6,7 @@
 - 👨‍🎓 I’m currently pursuing BTech from [MANIT](http://www.manit.ac.in/)  
   
 
-- I love competitive programming and diving into algorithms💻, and I am also a React Native⚛️ & Go <img src=https://github.com/user-attachments/assets/48bea8cb-3dea-4dde-9995-489f29dfb1b0 width=20% alt=Go/> developer.
+- I love competitive programming and diving into algorithms💻, and I am also a React Native⚛️ & Go <img src=https://github.com/user-attachments/assets/48bea8cb-3dea-4dde-9995-489f29dfb1b0 width=12px alt=Go/> developer.
   
 
 <br/>  
