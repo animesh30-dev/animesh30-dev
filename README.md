@@ -27,35 +27,6 @@
 - 🏅 Solved 1400+ DSA Problems across CF, LC, CC
 
 ---
-
-## 📱 Projects
-
-### 🎫 TicketWave App – Full Stack Ticket Booking System
-> [Frontend Repo](https://github.com/animesh30-dev/TicketWave-Frontend) | [Backend Repo](https://github.com/animesh30-dev/TicketWave)
-
-- Built with **React Native + Expo + Go (Fiber)**, **PostgreSQL**, **Docker**
-- 🔐 JWT Auth with Role-based Access (Admin & Users)
-- 📸 QR Code-based verification → reduced on-site queue by 30%
-- 🧩 Containerized backend + optimized APIs → 40% faster validation
-
----
-
-### 💰 MoneyMatters – Personal Finance App  
-> [Repo](https://github.com/animesh30-dev/MoneyMattersApp) | [YouTube](https://youtube.com/shorts/6TkBThvkNY8?feature=share) | [APK](https://drive.google.com/file/d/1jHf5u_dDCHSfBxIr0nefqbkXQRAe4LeF/view?usp=drive_link)
-
-- 💵 Track income & expenses with full CRUD
-- ⚡ Used **SQLite** for offline-first local storage (10K+ records)
-- 🔄 React Navigation for seamless UX (25% smoother flow)
-
----
-
-### 🌐 Portfolio Website  
-> [GitHub](https://github.com/animesh30-dev/PortFolio) | [Live Demo](https://portfoliowebsite-animesh30-devs-projects.vercel.app/)
-
-- 💼 Built with React + Material UI + Framer Motion
-- 🎨 Smooth animated transitions + project showcase
-- 🚀 Deployed via Vercel for blazing fast loads
-
 ---
 
 ## 🏅 Achievements
