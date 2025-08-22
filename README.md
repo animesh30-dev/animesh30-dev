@@ -11,19 +11,19 @@
 ## 🚀 Tech Stack
 
 - **Languages:** C, C++, Go, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks:** React Native, Expo, React, Go Fiber, Node.js, Express  
+- **Frameworks & Libraries:** React Native, Expo, React, Go Fiber, Node.js, Express  
 - **Databases & Cloud:** PostgreSQL 🐘, SQLite, Firebase, AWS (basic)  
 - **Tools & DevOps:** Git, GitHub, Docker 🐳, VS Code, Postman, EAS Build  
-- **CS Fundamentals:** DSA, Algorithms, Systems Design (ongoing)
+- **CS Fundamentals:** DSA, Algorithms,OOPS, DBMS, OS, CN, Systems Design
 
 ---
 
 ## 🧠 Competitive Programming
 
+- 🏆 **ICPC Amritapuri Regionals 2024:** Rank 202/265 Onsite 
 - 🟪 **CodeForces:** Specialist (Max: 1450) | [Profile](https://codeforces.com/profile/animesh_30)  
 - 🟨 **LeetCode:** 1700+ Rated (Top 13%) | [Profile](https://leetcode.com/u/animesh_30/)  
-- 🟦 **CodeChef:** 3★ (Max: 1600+) | [Profile](https://www.codechef.com/users/code_crafterr)  
-- 🏆 **ICPC Amritapuri Regionals 2024:** Rank 202/265 Onsite  
+- 🟦 **CodeChef:** 3★ (Max: 1600+) | [Profile](https://www.codechef.com/users/code_crafterr)   
 - 🏅 Solved 1400+ DSA Problems across CF, LC, CC
 
 ---
